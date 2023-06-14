@@ -1,4 +1,6 @@
 # Cinema4d-Fbx-Batch-Exporter
+![My Image](my-image.png)
+
 Export Batch of fbx files with one click
 
 Use The Helper Scene File To See How It Works.
